@@ -5,7 +5,7 @@
 *
 * Copyright Sandri DEV, 2022-2023.
 */
-package org.anime.project.ui.components;
+package org.sandri.components;
 
 import android.content.Context;
 import android.graphics.Bitmap;
